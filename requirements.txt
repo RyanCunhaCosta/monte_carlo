@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+progress
+streamlit-antd-components
+streamlit-option-menu
+streamlit-echarts
